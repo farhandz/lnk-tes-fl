@@ -1,6 +1,3 @@
-# Audit Trail
-Feature For Track User Activity
-
 
 ## Installation
 
@@ -9,7 +6,7 @@ Feature For Track User Activity
 Install the dependencies and devDependencies and start the server.
 
 ```sh
-cd audit-trail
+cd lnk-be
 npm i
 npm start
 ```
